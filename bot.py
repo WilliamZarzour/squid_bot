@@ -5,7 +5,7 @@ import asyncio
 
 
 def run_discord_bot():
-    TOKEN = open("creds.gitignore","r").read().strip()
+    TOKEN = open("discord_creds.gitignore","r").read().strip()
     
     #intents are a feature of Discord that tells the gateway exactly which events to send your bot.
     intents = disc.Intents.default()
