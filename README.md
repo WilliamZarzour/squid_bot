@@ -15,4 +15,3 @@ To run this project:
     
 4. Once all dependencies have been installed, and tokens properly stored for reference. You can locally run the program and the bot should log in and be available in the server for use. 
     - In discord: `!help` to see available functions.
-    - 
